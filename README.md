@@ -3,6 +3,7 @@
 REQUIRED MENUS IN THE PROGRAM:
 
 STUDENT OPERATIONS:
+
 1- Add, Delete, Update Student: The program should prompt the user to enter all the information related to the student and perform separate Add/Delete/Update operations on files and linked lists.
 
 2- View Student Information: The program should prompt the user to enter the ID or Name-Surname of the student and display their personal information (Name, Surname, ID, Score, etc.) and list all book transactions.
@@ -14,6 +15,7 @@ STUDENT OPERATIONS:
 5- List All Students:
 
 6- Borrow/Return Books
+
 
 
 BOOK OPERATIONS:
@@ -29,6 +31,7 @@ BOOK OPERATIONS:
 11- Match Book-Author: The program should update the relevant file and struct array.
 
 12- Update the Author of a Book: The program should update the relevant file and struct array.
+
 
 
 AUTHOR OPERATIONS:
